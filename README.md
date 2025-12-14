@@ -1,7 +1,5 @@
 # Excel-Order-Processing-Capstone-_2
 
-# Task – Order Processing Logic
-
 ## Task Overview
 
 This task focuses on using text functions and logical conditions in Excel to prepare a clean, decision-ready report for warehouse operations.
